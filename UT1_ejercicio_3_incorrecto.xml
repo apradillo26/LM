@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<clase>
+   <alumno id="1">
+      <Nombre>Ana</Nombre>
+      <Apellidos>García Sanz</Apellidos>
+      <FechaNacimiento>2000-01-01</FechaNacimiento>
+	  <asignaturas>
+		<asignatura>Matemáticas</asignatura>
+		<asignatura>Lenguajes de Marcas</asignatura>
+	  </asignaturas>
+   </alumno>
+   <alumno id="2">
+      <Nombre>Beatriz</Nombre>
+      <Apellidos>Fernández López</Apellidos>
+      <FechaNacimiento>1999-10-20</FechaNacimiento>
+   </alumno>
+</clase>
